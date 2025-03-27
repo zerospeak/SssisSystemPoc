@@ -9,7 +9,7 @@ Let me present this technical design document in a professional format with enha
 | Document Control | Details |
 | --- | --- |
 | Version | 1.0 |
-| Author | AI Architect |
+| Author | Leeroy D'Souza |
 | Status | Draft |
 | Last Updated | March 27, 2025 |
 
